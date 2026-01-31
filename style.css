@@ -20,8 +20,7 @@
     text-align: right;
 
 }
-.failure-container p{
+.failure-container p, .plan-card p{
   color: #444343;
-
   padding-top: 16px;
 }
