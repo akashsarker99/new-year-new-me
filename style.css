@@ -20,3 +20,8 @@
     text-align: right;
 
 }
+.failure-container p{
+  color: #444343;
+
+  padding-top: 16px;
+}
